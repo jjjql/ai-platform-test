@@ -1,6 +1,6 @@
 replicaCount: 4
 
-appVersion: "1.0-dev"
+appVersion: "2.0-dev"
 
 image:
   repository: busybox
