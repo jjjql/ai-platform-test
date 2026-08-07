@@ -1,0 +1,7 @@
+replicaCount: 3
+
+appVersion: "0.9-prod"
+
+image:
+  repository: busybox
+  tag: latest
